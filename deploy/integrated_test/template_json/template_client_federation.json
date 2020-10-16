@@ -63,7 +63,7 @@
       "peerURL": "fedlearner-stack-ingress-nginx-controller.default.svc.cluster.local:80",
       "authority": "external.name",
       "extraHeaders": {
-        "x-host": "default.flapp.webconsole",
+        "x-host": "fedlearner-webconsole-debug.bytedance.com",
         "x-federation": "!x-federation"
       }
     },
